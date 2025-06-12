@@ -1,4 +1,4 @@
-package com.vitor.dev.CadastroDeNinjas.Model;
+package com.vitor.dev.CadastroDeNinjas.Ninja.Model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
